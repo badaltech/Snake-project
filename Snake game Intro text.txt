@@ -1,6 +1,6 @@
 I know you all have played the Snake Game and definitely, you never wanted to lose. As kids, we all loved looking for cheats 
 in order to never see the “Game Over” message but as techies, I know you would want to make this ‘Snake’ dance to your beats. 
-This is what I will be showing you all in this article on Snake Game in Python.
+This is what I will be showing you all in this Snake Game in Python.
 Before moving on, let’s have a quick look at all the sub-bits that build the Snake Game in Python:
 
 Create the Screen
